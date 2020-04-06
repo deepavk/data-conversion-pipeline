@@ -1,0 +1,60 @@
+{
+	"restaurants": [
+		{
+			"name": "Aristotle",
+			"address": "123 6th main road",
+			"rating": 5,
+			"contact": "abc",
+			"phone": "123-111-789",
+			"url": "http://www.restaurant2.com"
+		},
+		{
+			"name": "Bethoven",
+			"address": "123 7th main road",
+			"rating": 5,
+			"contact": "def",
+			"phone": "123-232-789",
+			"url": "http://www.restaurant3.com"
+		},
+		{
+			"name": "Chancery",
+			"address": "123 8th main road",
+			"rating": 5,
+			"contact": "ghi",
+			"phone": "123-333-789",
+			"url": "http://www.restaurant4.com"
+		},
+		{
+			"name": "Eagleton",
+			"address": "123 9th main road",
+			"rating": 5,
+			"contact": "klm",
+			"phone": "123-55-789",
+			"url": "http://www.restaurant6.com"
+		},
+		{
+			"name": "Fireflies",
+			"address": "123 15th main road",
+			"rating": 5,
+			"contact": "nop",
+			"phone": "123-55-789",
+			"url": "http://www.restaurant6.com"
+		},
+		{
+			"name": "Gardenia",
+			"address": "123 15th main road",
+			"rating": 5,
+			"contact": "qrs",
+			"phone": "123-55-789",
+			"url": "http://www.restaurant6.com"
+		},
+		{
+			"name": "The Park",
+			"address": "123 5th main road",
+			"rating": 5,
+			"contact": "abc",
+			"phone": "123-456-789",
+			"url": "http://www.restaurant1.com"
+		}
+	]
+}

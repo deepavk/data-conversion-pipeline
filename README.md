@@ -1,7 +1,6 @@
-Pipeline reads a set of csv data and writes it to different formats like json or xml. 
-It can be extended to other formats by adding the specific logic for a different output
-format like sqlite to writers/ and implementing the DataWriter interface. 
-Options to sort the output based on few fields is available. 
+This utility supports the reading of csv files. The data can be written to different output formats such as json/xml. 
+
+It can be extended to other formats by adding the specific logic for a different output formats. An implementation of the DataWriter can be added to the writers/ package to extend this utility to other formats.
 
 
 To run the code:

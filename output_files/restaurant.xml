@@ -1,0 +1,58 @@
+<Restaurants>
+	<restaurant>
+		<name>Aristotle</name>
+		<address>123 6th main road</address>
+		<rating>5</rating>
+		<contact>abc</contact>
+		<phone>123-111-789</phone>
+		<url>http://www.restaurant2.com</url>
+	</restaurant>
+	<restaurant>
+		<name>Bethoven</name>
+		<address>123 7th main road</address>
+		<rating>5</rating>
+		<contact>def</contact>
+		<phone>123-232-789</phone>
+		<url>http://www.restaurant3.com</url>
+	</restaurant>
+	<restaurant>
+		<name>Chancery</name>
+		<address>123 8th main road</address>
+		<rating>5</rating>
+		<contact>ghi</contact>
+		<phone>123-333-789</phone>
+		<url>http://www.restaurant4.com</url>
+	</restaurant>
+	<restaurant>
+		<name>Eagleton</name>
+		<address>123 9th main road</address>
+		<rating>5</rating>
+		<contact>klm</contact>
+		<phone>123-55-789</phone>
+		<url>http://www.restaurant6.com</url>
+	</restaurant>
+	<restaurant>
+		<name>Fireflies</name>
+		<address>123 15th main road</address>
+		<rating>5</rating>
+		<contact>nop</contact>
+		<phone>123-55-789</phone>
+		<url>http://www.restaurant6.com</url>
+	</restaurant>
+	<restaurant>
+		<name>Gardenia</name>
+		<address>123 15th main road</address>
+		<rating>5</rating>
+		<contact>qrs</contact>
+		<phone>123-55-789</phone>
+		<url>http://www.restaurant6.com</url>
+	</restaurant>
+	<restaurant>
+		<name>The Park</name>
+		<address>123 5th main road</address>
+		<rating>5</rating>
+		<contact>abc</contact>
+		<phone>123-456-789</phone>
+		<url>http://www.restaurant1.com</url>
+	</restaurant>
+</Restaurants>
